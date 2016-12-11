@@ -161,3 +161,5 @@ function  bitwiseAndTest() {
     print(bitwiseFormat + ' -> ' + decimalFormat);
 }
 ```
+
+Project published at: https://ecometall.github.io/javaScript-bitwise-operators/
